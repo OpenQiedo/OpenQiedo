@@ -39,7 +39,7 @@
     "minimum-stability": "dev",
     "require": {
     	"php": ">=7.4.0",
-    	"openqiedo/framework": "dev-main"
+    	"openqiedo/framework": "*"
     },
     "prefer-stable": true,
     "config": {
