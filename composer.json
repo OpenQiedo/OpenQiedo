@@ -1,0 +1,21 @@
+{
+    "name": "openqiedo/openqiedo",
+    "description": "The Qiedo PHP Framework",
+    "type": "project",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Openqiedo\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Qiedo",
+            "email": "me@openqiedo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php": ">=7.4.0"
+    }
+}
