@@ -15,7 +15,6 @@
             "email": "me@openqiedo.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
     	"php": ">=7.4.0",
         "openqiedo/framework": "0.1.0-dev"
