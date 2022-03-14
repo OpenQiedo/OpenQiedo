@@ -10,12 +10,14 @@
     "homepage": "https://github.com/OpenQiedo/OpenQiedo",
     "readme": "README.md",
     "license": "Apache-2.0",
-    "authors": {
-    	"name": "Qiedo",
-    	"email": "me@openqiedo.com",
-    	"homepage": "https://www.openqiedo.com",
-    	"role": "Founder and Developer"
-    },
+    "authors": [
+    	{
+    		"name": "Qiedo",
+    		"email": "me@openqiedo.com",
+    		"homepage": "https://www.openqiedo.com",
+    		"role": "Founder and Developer"
+    	}
+    ],
     "support": {
     	"email": "support@openqiedo.com"
     },
