@@ -1,7 +1,6 @@
 {
     "name": "openqiedo/openqiedo",
     "description": "The Qiedo PHP Framework",
-    "version": "0.1.0-dev",
     "type": "project",
     "keywords": [
     	"PHP Framework", 
